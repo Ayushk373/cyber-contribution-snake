@@ -23,21 +23,6 @@
 
 ## 🐍 Live Demo
 
-## 🐍 Live Demo
-
-<p align="center">
-  <img
-    src="https://raw.githubusercontent.com/Ayushk373/cyber-contribution-snake/output/cyber-snake-light.svg"
-    width="850"
-    alt="Ayush's Cyber Contribution Snake">
-</p>
-> 🟣 Neon Cyber theme  
-> 🔵 Cyan contribution colors  
-> ⚡ Automatically updated using GitHub Actions
----
-
-## 🐍 Preview
-
 <p align="center">
   <picture>
     <source
@@ -51,7 +36,7 @@
     <img
       src="https://raw.githubusercontent.com/Ayushk373/cyber-contribution-snake/output/cyber-snake-light.svg"
       width="850"
-      alt="Cyber Contribution Snake">
+      alt="Ayush's Cyber Contribution Snake">
   </picture>
 </p>
 
