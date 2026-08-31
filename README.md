@@ -97,12 +97,49 @@ Copy this into your GitHub profile README:
     alt="Cyber Contribution Snake">
 </picture>
 ```
+
+---
+
+## 🎨 Cyber Themes
+
+Choose your favorite style and customize your Snake!
+Change its code of colur of snakes and dots only.
+
+### 🟣 Neon Purple
+
+```yaml
+color_snake=%23a855f7
+color_dots=%2309090b,%23164e63,%230891b2,%2306b6d4,%2367e8f9
+```
+
+🔵 Cyber Blue
+```yaml
+color_snake=%2300e5ff
+color_dots=%23082f49,%23075985,%230369a1,%230ea5e9,%237dd3fc
+```
+
+🟢 Matrix Green
+```yaml
+color_snake=%2300ff41
+color_dots=%23052e16,%23166534,%2316a34a,%2322c55e,%2386efac
+```
+🔥 Inferno
+```yaml
+color_snake=%23ff4500
+color_dots=%23450a0a,%237c2d12,%23ea580c,%23f97316,%23facc15
+```
+❄️ Arctic
+```yaml
+color_snake=%230ea5e9
+color_dots=%23f0f9ff,%23bae6fd,%237dd3fc,%230ea5e9,%230367a1
+```
 🛠️ Built With
 GitHub Actions
 Platane/snk
 SVG
 GitHub Contribution Graph
 
+```
 ## ❤️ Credits
 
 This project is built using the amazing open-source
