@@ -25,10 +25,28 @@
 ## 🐍 Live Demo
 
 ## 🐍 Cyber Contribution Snake
-
+##  Light Mode
 <p align="center">
 
 <img src="https://raw.githubusercontent.com/Ayushk373/cyber-contribution-snake/output/cyber-snake-light.svg" width="850">
+
+</p>
+
+## 🐍 Cyber Contribution Snake
+## Dark Mode
+<p align="center">
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/Ayushk373/cyber-contribution-snake/output/cyber-snake-dark.svg">
+
+  <img
+    src="https://raw.githubusercontent.com/Ayushk373/cyber-contribution-snake/output/cyber-snake-light.svg"
+    width="850"
+    alt="Ayush's Cyber Contribution Snake">
+
+</picture>
 
 </p>
 ---
