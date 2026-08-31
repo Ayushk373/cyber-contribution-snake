@@ -1,0 +1,30 @@
+name: 🐍 Cyber Contribution Snake
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: 🐍 Generate Cyber Snake
+        uses: Platane/snk@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/cyber-snake-dark.svg?palette=github-dark&color_snake=%23a855f7&color_dots=%2309090b,%23164e63,%230891b2,%2306b6d4,%2367e8f9
+            dist/cyber-snake-light.svg?palette=github-light&color_snake=%237c3aed&color_dots=%23f8fafc,%23dbeafe,%2393c5fd,%233b82f6,%231d4ed8
+
+      - name: 🚀 Deploy generated files
+        uses: crazy-max/ghaction-github-pages@v5
+        with:
+          build_dir: dist
+          target_branch: output
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
