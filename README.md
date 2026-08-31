@@ -75,9 +75,23 @@ Copy:
     alt="Cyber Contribution Snake"
     width="850">
 </picture>
-
+```
 🛠️ Built With
 GitHub Actions
 Platane/snk
 SVG
 GitHub Contribution Graph
+
+## ❤️ Credits
+
+This project is built using the amazing open-source
+[Platane/snk](https://github.com/Platane/snk).
+
+The original Snake generator and core functionality are
+developed and maintained by Platane and its contributors.
+
+This repository provides a customized Cyber-themed configuration,
+documentation, and presets built around the original project.
+
+⭐ Please support the original project:
+https://github.com/Platane/snk
