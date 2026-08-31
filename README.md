@@ -24,21 +24,12 @@
 
 ## 🐍 Live Demo
 
+## 🐍 Cyber Contribution Snake
+
 <p align="center">
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/Ayushk373/cyber-contribution-snake/output/cyber-snake-dark.svg">
 
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/Ayushk373/cyber-contribution-snake/output/cyber-snake-light.svg">
+<img src="https://raw.githubusercontent.com/Ayushk373/cyber-contribution-snake/output/cyber-snake-light.svg" width="850">
 
-    <img
-      src="https://raw.githubusercontent.com/Ayushk373/cyber-contribution-snake/output/cyber-snake-light.svg"
-      width="850"
-      alt="Ayush's Cyber Contribution Snake">
-  </picture>
 </p>
 ---
 
